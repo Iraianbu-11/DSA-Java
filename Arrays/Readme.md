@@ -3,3 +3,6 @@
 2. [Check if Array is Sorted or Not](IsSort.java)
 3. [Second Largest and Smallest Element in Array](Second.java)
 4. [Linear Search](Linear.java)
+5. [Maximum Consecutive One's](MaxOne.java)
+6. [Move all Zeros to the end of the Array](MoveZeros.java)
+7. [Left Rotate an array by K Places](LeftRotate.java)
