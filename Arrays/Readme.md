@@ -9,3 +9,4 @@
 8. [Two Sum](TwoSum.java)
 9. [Remove Duplicates from the Sorted Array](Duplicates.java)
 10. [Union of Two Array](Union.java)
+11. [Missing Element in an Array](Missing.java)
