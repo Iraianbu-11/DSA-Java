@@ -6,3 +6,6 @@
 5. [Maximum Consecutive One's](MaxOne.java)
 6. [Move all Zeros to the end of the Array](MoveZeros.java)
 7. [Left Rotate an array by K Places](LeftRotate.java)
+8. [Two Sum](TwoSum.java)
+9. [Remove Duplicates from the Sorted Array](Duplicates.java)
+10. [Union of Two Array](Union.java)
